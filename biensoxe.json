@@ -1,0 +1,1237 @@
+[
+    {
+        "id": 1,
+        "tendiaphuong": "Cao Bằng",
+        "bienso": "11"
+    },
+    {
+        "id": 2,
+        "tendiaphuong": "Lạng Sơn",
+        "bienso": "12"
+    },
+    {
+        "id": 3,
+        "tendiaphuong": "Quảng Ninh",
+        "bienso": "14"
+    },
+    {
+        "id": 4,
+        "tendiaphuong": "Hải Phòng",
+        "bienso": "15"
+    },
+    {
+        "id": 5,
+        "tendiaphuong": "Hải Phòng",
+        "bienso": "16"
+    },
+    {
+        "id": 6,
+        "tendiaphuong": "Thái Bình",
+        "bienso": "17"
+    },
+    {
+        "id": 7,
+        "tendiaphuong": "Nam Định",
+        "bienso": "18"
+    },
+    {
+        "id": 8,
+        "tendiaphuong": "Phú Thọ",
+        "bienso": "19"
+    },
+    {
+        "id": 9,
+        "tendiaphuong": "Thái Nguyên",
+        "bienso": "20"
+    },
+    {
+        "id": 10,
+        "tendiaphuong": "Yên Bái",
+        "bienso": "21"
+    },
+    {
+        "id": 11,
+        "tendiaphuong": "Tuyên Quang",
+        "bienso": "22"
+    },
+    {
+        "id": 12,
+        "tendiaphuong": "Hà Giang",
+        "bienso": "23"
+    },
+    {
+        "id": 13,
+        "tendiaphuong": "Lào Cai",
+        "bienso": "24"
+    },
+    {
+        "id": 14,
+        "tendiaphuong": "Lai Châu",
+        "bienso": "25"
+    },
+    {
+        "id": 15,
+        "tendiaphuong": "Sơn La",
+        "bienso": "26"
+    },
+    {
+        "id": 16,
+        "tendiaphuong": "Điện Biên",
+        "bienso": "27"
+    },
+    {
+        "id": 17,
+        "tendiaphuong": "Hòa Bình",
+        "bienso": "28"
+    },
+    {
+        "id": 18,
+        "tendiaphuong": "Hà Nội",
+        "bienso": "29"
+    },
+    {
+        "id": 19,
+        "tendiaphuong": "Hà Nội",
+        "bienso": "33"
+    },
+    {
+        "id": 20,
+        "tendiaphuong": "Hà Nội",
+        "bienso": "40"
+    },
+    {
+        "id": 21,
+        "tendiaphuong": "Hải Dương",
+        "bienso": "34"
+    },
+    {
+        "id": 22,
+        "tendiaphuong": "Ninh Bình",
+        "bienso": "35"
+    },
+    {
+        "id": 23,
+        "tendiaphuong": "Thanh Hóa",
+        "bienso": "36"
+    },
+    {
+        "id": 24,
+        "tendiaphuong": "Nghệ An",
+        "bienso": "37"
+    },
+    {
+        "id": 25,
+        "tendiaphuong": "Hà Tĩnh",
+        "bienso": "38"
+    },
+    {
+        "id": 26,
+        "tendiaphuong": "TP. Đà Nẵng",
+        "bienso": "43"
+    },
+    {
+        "id": 27,
+        "tendiaphuong": "Đắk Lắk",
+        "bienso": "47"
+    },
+    {
+        "id": 28,
+        "tendiaphuong": "Đắk Nông",
+        "bienso": "48"
+    },
+    {
+        "id": 29,
+        "tendiaphuong": "Lâm Đồng",
+        "bienso": "49"
+    },
+    {
+        "id": 30,
+        "tendiaphuong": "TP. Hồ Chí Minh",
+        "bienso": "47"
+    },
+    {
+        "id": 31,
+        "tendiaphuong": "TP. Hồ Chí Minh",
+        "bienso": "50"
+    },
+    {
+        "id": 32,
+        "tendiaphuong": "TP. Hồ Chí Minh",
+        "bienso": "59"
+    },
+    {
+        "id": 33,
+        "tendiaphuong": "Đồng Nai",
+        "bienso": "39"
+    },
+    {
+        "id": 34,
+        "tendiaphuong": "Đồng Nai",
+        "bienso": "60"
+    },
+    {
+        "id": 35,
+        "tendiaphuong": "Bình Dương",
+        "bienso": "61"
+    },
+    {
+        "id": 36,
+        "tendiaphuong": "Long An",
+        "bienso": "62"
+    },
+    {
+        "id": 37,
+        "tendiaphuong": "Tiền Giang",
+        "bienso": "63"
+    },
+    {
+        "id": 38,
+        "tendiaphuong": "Vĩnh Long",
+        "bienso": "64"
+    },
+    {
+        "id": 39,
+        "tendiaphuong": "Cần Thơ",
+        "bienso": "65"
+    },
+    {
+        "id": 40,
+        "tendiaphuong": "Đồng Tháp",
+        "bienso": "66"
+    },
+    {
+        "id": 41,
+        "tendiaphuong": "An Giang",
+        "bienso": "67"
+    },
+    {
+        "id": 42,
+        "tendiaphuong": "Kiên Giang",
+        "bienso": "68"
+    },
+    {
+        "id": 43,
+        "tendiaphuong": "Cà Mau",
+        "bienso": "69"
+    },
+    {
+        "id": 44,
+        "tendiaphuong": "Tây Ninh",
+        "bienso": "70"
+    },
+    {
+        "id": 45,
+        "tendiaphuong": "Bến Tre",
+        "bienso": "71"
+    },
+    {
+        "id": 46,
+        "tendiaphuong": "Bà Rịa - Vũng Tàu",
+        "bienso": "72"
+    },
+    {
+        "id": 47,
+        "tendiaphuong": "Quảng Bình",
+        "bienso": "73"
+    },
+    {
+        "id": 48,
+        "tendiaphuong": "Quảng Trị",
+        "bienso": "74"
+    },
+    {
+        "id": 49,
+        "tendiaphuong": "Thừa Thiên Huế",
+        "bienso": "75"
+    },
+    {
+        "id": 50,
+        "tendiaphuong": "Quảng Ngãi",
+        "bienso": "76"
+    },
+    {
+        "id": 51,
+        "tendiaphuong": "Bình Định",
+        "bienso": "77"
+    },
+    {
+        "id": 52,
+        "tendiaphuong": "Phú Yên",
+        "bienso": "78"
+    },
+    {
+        "id": 53,
+        "tendiaphuong": "Khánh Hòa",
+        "bienso": "79"
+    },
+    {
+        "id": 54,
+        "tendiaphuong": "Gia Lai",
+        "bienso": "81"
+    },
+    {
+        "id": 55,
+        "tendiaphuong": "Kon Tum",
+        "bienso": "82"
+    },
+    {
+        "id": 56,
+        "tendiaphuong": "Sóc Trăng",
+        "bienso": "83"
+    },
+    {
+        "id": 57,
+        "tendiaphuong": "Trà Vinh",
+        "bienso": "84"
+    },
+    {
+        "id": 58,
+        "tendiaphuong": "Ninh Thuận",
+        "bienso": "85"
+    },
+    {
+        "id": 59,
+        "tendiaphuong": "Bình Thuận",
+        "bienso": "86"
+    },
+    {
+        "id": 60,
+        "tendiaphuong": "Vĩnh Phúc",
+        "bienso": "88"
+    },
+    {
+        "id": 61,
+        "tendiaphuong": "Hưng Yên",
+        "bienso": "89"
+    },
+    {
+        "id": 62,
+        "tendiaphuong": "Hà Nam",
+        "bienso": "90"
+    },
+    {
+        "id": 63,
+        "tendiaphuong": "Quảng Nam",
+        "bienso": "92"
+    },
+    {
+        "id": 64,
+        "tendiaphuong": "Bình Phước",
+        "bienso": "93"
+    },
+    {
+        "id": 65,
+        "tendiaphuong": "Bạc Liêu",
+        "bienso": "94"
+    },
+    {
+        "id": 66,
+        "tendiaphuong": "Hậu Giang",
+        "bienso": "95"
+    },
+    {
+        "id": 67,
+        "tendiaphuong": "Bắc Cạn",
+        "bienso": "97"
+    },
+    {
+        "id": 68,
+        "tendiaphuong": "Bắc Giang",
+        "bienso": "98"
+    },
+    {
+        "id": 69,
+        "tendiaphuong": "Bắc Ninh",
+        "bienso": "99"
+    },
+    {
+        "id": 70,
+        "tendiaphuong": "Thành phố Thủ Dầu Một",
+        "bienso": "61-B1"
+    },
+    {
+        "id": 71,
+        "tendiaphuong": "Thị xã Thuận An",
+        "bienso": "61-C1"
+    },
+    {
+        "id": 72,
+        "tendiaphuong": "Thị xã Dĩ An",
+        "bienso": "61-D1"
+    },
+    {
+        "id": 73,
+        "tendiaphuong": "Thị xã Tân Uyên",
+        "bienso": "61-E1"
+    },
+    {
+        "id": 74,
+        "tendiaphuong": "Huyện Phú Giáo",
+        "bienso": "61-F1"
+    },
+    {
+        "id": 75,
+        "tendiaphuong": "Thị xã Bến Cát",
+        "bienso": "61-G1"
+    },
+    {
+        "id": 76,
+        "tendiaphuong": "Huyện Dầu Tiếng",
+        "bienso": "61-H1"
+    },
+    {
+        "id": 77,
+        "tendiaphuong": "Huyện Bàu Bàng",
+        "bienso": "61-K1"
+    },
+    {
+        "id": 78,
+        "tendiaphuong": "Huyện Bắc Tân Uyên",
+        "bienso": "61-N1"
+    },
+    {
+        "id": 79,
+        "tendiaphuong": "Bộ Tổng Tham mưu - Cơ quan Bộ Quốc phòng",
+        "bienso": "TM"
+    },
+    {
+        "id": 80,
+        "tendiaphuong": "Tổng cục Chính trị",
+        "bienso": "TC"
+    },
+    {
+        "id": 81,
+        "tendiaphuong": "Tổng cục Hậu cần",
+        "bienso": "TH"
+    },
+    {
+        "id": 82,
+        "tendiaphuong": "Tổng cục Kỹ thuật",
+        "bienso": "TT"
+    },
+    {
+        "id": 83,
+        "tendiaphuong": "Tổng cục Công nghiệp Quốc phòng",
+        "bienso": "TK"
+    },
+    {
+        "id": 84,
+        "tendiaphuong": "Tổng cục II",
+        "bienso": "TN"
+    },
+    {
+        "id": 85,
+        "tendiaphuong": "Quân khu 1",
+        "bienso": "KA"
+    },
+    {
+        "id": 86,
+        "tendiaphuong": "Quân khu 2",
+        "bienso": "KB"
+    },
+    {
+        "id": 87,
+        "tendiaphuong": "Quân khu 3",
+        "bienso": "KC"
+    },
+    {
+        "id": 88,
+        "tendiaphuong": "Quân khu 4",
+        "bienso": "KD"
+    },
+    {
+        "id": 89,
+        "tendiaphuong": "Quân khu 5",
+        "bienso": "KV"
+    },
+    {
+        "id": 90,
+        "tendiaphuong": "Quân khu 7",
+        "bienso": "KP"
+    },
+    {
+        "id": 91,
+        "tendiaphuong": "Quân khu 9",
+        "bienso": "KK"
+    },
+    {
+        "id": 92,
+        "tendiaphuong": "Bộ Tư lệnh Thủ đô Hà Nội",
+        "bienso": "KT"
+    },
+    {
+        "id": 93,
+        "tendiaphuong": "Quân chủng Phòng không - Không quân",
+        "bienso": "QA"
+    },
+    {
+        "id": 94,
+        "tendiaphuong": "Quân chủng Hải quân",
+        "bienso": "QH"
+    },
+    {
+        "id": 95,
+        "tendiaphuong": "Bộ Tư lệnh Bộ đội Biên phòng",
+        "bienso": "QB"
+    },
+    {
+        "id": 96,
+        "tendiaphuong": "Quân đoàn 1",
+        "bienso": "AA"
+    },
+    {
+        "id": 97,
+        "tendiaphuong": "Quân đoàn 2",
+        "bienso": "AB"
+    },
+    {
+        "id": 98,
+        "tendiaphuong": "Quân đoàn 3",
+        "bienso": "AC"
+    },
+    {
+        "id": 99,
+        "tendiaphuong": "Quân đoàn 4",
+        "bienso": "AD"
+    },
+    {
+        "id": 100,
+        "tendiaphuong": "Binh chủng Pháo binh",
+        "bienso": "BP"
+    },
+    {
+        "id": 101,
+        "tendiaphuong": "Binh chủng Tăng, Thiết giáp",
+        "bienso": "BB"
+    },
+    {
+        "id": 102,
+        "tendiaphuong": "Binh chủng Đặc công",
+        "bienso": "BK"
+    },
+    {
+        "id": 103,
+        "tendiaphuong": "Binh chủng Thông tin liên lạc",
+        "bienso": "BT"
+    },
+    {
+        "id": 104,
+        "tendiaphuong": "Binh chủng Công binh",
+        "bienso": "BC"
+    },
+    {
+        "id": 105,
+        "tendiaphuong": "Binh chủng Hoá học",
+        "bienso": "BH"
+    },
+    {
+        "id": 106,
+        "tendiaphuong": "Bộ Tư lệnh Cảnh sát biển",
+        "bienso": "BS"
+    },
+    {
+        "id": 107,
+        "tendiaphuong": "Bộ Tư lệnh Bảo vệ Lăng Chủ tịch Hồ Chí Minh",
+        "bienso": "BL"
+    },
+    {
+        "id": 108,
+        "tendiaphuong": "Học viện Quốc phòng",
+        "bienso": "HA"
+    },
+    {
+        "id": 109,
+        "tendiaphuong": "Học viện Lục quân",
+        "bienso": "HB"
+    },
+    {
+        "id": 110,
+        "tendiaphuong": "Học viện Chính trị",
+        "bienso": "HC"
+    },
+    {
+        "id": 111,
+        "tendiaphuong": "Học viện Hậu cần",
+        "bienso": "HE"
+    },
+    {
+        "id": 112,
+        "tendiaphuong": "Học viện Kỹ thuật Quân sự",
+        "bienso": "HD"
+    },
+    {
+        "id": 113,
+        "tendiaphuong": "Học viện Quân y",
+        "bienso": "HH"
+    },
+    {
+        "id": 114,
+        "tendiaphuong": "Trường Sĩ quan Lục quân 1",
+        "bienso": "HT"
+    },
+    {
+        "id": 115,
+        "tendiaphuong": "Trường Sĩ quan Lục quân 2",
+        "bienso": "HQ"
+    },
+    {
+        "id": 116,
+        "tendiaphuong": "Trường Sĩ quan Chính trị",
+        "bienso": "HN"
+    },
+    {
+        "id": 117,
+        "tendiaphuong": "Ban Cơ yếu Chính phủ",
+        "bienso": "PK"
+    },
+    {
+        "id": 118,
+        "tendiaphuong": "Cục Đối ngoại",
+        "bienso": "PA"
+    },
+    {
+        "id": 119,
+        "tendiaphuong": "Cục Quân y",
+        "bienso": "PY"
+    },
+    {
+        "id": 120,
+        "tendiaphuong": "Viện Khoa học và Công nghệ quân sự",
+        "bienso": "PQ"
+    },
+    {
+        "id": 121,
+        "tendiaphuong": "Viện Lịch sử quân sự Việt Nam",
+        "bienso": "PL"
+    },
+    {
+        "id": 122,
+        "tendiaphuong": "Trung tâm Nhiệt đới Việt - Nga",
+        "bienso": "PX"
+    },
+    {
+        "id": 123,
+        "tendiaphuong": "Trung tâm Gìn giữ hòa bình Việt Nam",
+        "bienso": "PG"
+    },
+    {
+        "id": 124,
+        "tendiaphuong": "Bệnh viện Trung ương quân đội 108",
+        "bienso": "PP - 10"
+    },
+    {
+        "id": 125,
+        "tendiaphuong": "Bệnh viện quân y 175",
+        "bienso": "PP - 40"
+    },
+    {
+        "id": 126,
+        "tendiaphuong": "Viện Y học Cổ truyền quân đội",
+        "bienso": "PP - 60"
+    },
+    {
+        "id": 127,
+        "tendiaphuong": "Lữ đoàn 144",
+        "bienso": "AP"
+    },
+    {
+        "id": 128,
+        "tendiaphuong": "Binh đoàn 11",
+        "bienso": "AV"
+    },
+    {
+        "id": 129,
+        "tendiaphuong": "Binh đoàn 12",
+        "bienso": "AT"
+    },
+    {
+        "id": 130,
+        "tendiaphuong": "Binh đoàn 15",
+        "bienso": "AN"
+    },
+    {
+        "id": 131,
+        "tendiaphuong": "Binh đoàn 16",
+        "bienso": "AX"
+    },
+    {
+        "id": 132,
+        "tendiaphuong": "Binh đoàn 18",
+        "bienso": "VB"
+    },
+    {
+        "id": 133,
+        "tendiaphuong": "Tập đoàn Viễn thông quân đội",
+        "bienso": "VT"
+    },
+    {
+        "id": 134,
+        "tendiaphuong": "Viện thiết kế Bộ Quốc phòng",
+        "bienso": "PM"
+    },
+    {
+        "id": 135,
+        "tendiaphuong": "Tổng công ty Đông Bắc",
+        "bienso": "DB"
+    },
+    {
+        "id": 136,
+        "tendiaphuong": "Tổng công ty Đầu tư phát triển Nhà và Đô thị Bộ Quốc phòng",
+        "bienso": "ND"
+    },
+    {
+        "id": 137,
+        "tendiaphuong": "Ngân hàng Thương mại cổ phần quân đội",
+        "bienso": "CB"
+    },
+    {
+        "id": 138,
+        "tendiaphuong": "Tổng công ty 36",
+        "bienso": "CA"
+    },
+    {
+        "id": 139,
+        "tendiaphuong": "Tổng công ty 319",
+        "bienso": "CP"
+    },
+    {
+        "id": 140,
+        "tendiaphuong": "Tổng công ty Thái sơn",
+        "bienso": "CM"
+    },
+    {
+        "id": 141,
+        "tendiaphuong": "Tổng công ty Xây dựng Lũng Lô",
+        "bienso": "CV"
+    },
+    {
+        "id": 142,
+        "tendiaphuong": "Tổng công ty Xăng dầu quân đội",
+        "bienso": "CC"
+    },
+    {
+        "id": 143,
+        "tendiaphuong": "Công ty ứng dụng Kỹ thuật và Sản xuất",
+        "bienso": "CT"
+    },
+    {
+        "id": 144,
+        "tendiaphuong": "Quận 1",
+        "bienso": "59-T1"
+    },
+    {
+        "id": 145,
+        "tendiaphuong": "Quận 1",
+        "bienso": " 59-TA"
+    },
+    {
+        "id": 146,
+        "tendiaphuong": "Quận 2",
+        "bienso": "59-B1"
+    },
+    {
+        "id": 147,
+        "tendiaphuong": "Quận 2",
+        "bienso": "59-BA"
+    },
+    {
+        "id": 148,
+        "tendiaphuong": "Quận 3",
+        "bienso": "59-F1"
+    },
+    {
+        "id": 149,
+        "tendiaphuong": "Quận 3",
+        "bienso": "59-FA"
+    },
+    {
+        "id": 150,
+        "tendiaphuong": "Quận 4",
+        "bienso": "59-C1"
+    },
+    {
+        "id": 151,
+        "tendiaphuong": "Quận 4",
+        "bienso": "59-CA"
+    },
+    {
+        "id": 152,
+        "tendiaphuong": "Quận 5",
+        "bienso": "59-H1"
+    },
+    {
+        "id": 153,
+        "tendiaphuong": "Quận 5",
+        "bienso": "59-HA"
+    },
+    {
+        "id": 154,
+        "tendiaphuong": "Quận 6",
+        "bienso": "59-K1"
+    },
+    {
+        "id": 155,
+        "tendiaphuong": "Quận 6",
+        "bienso": "59-KA"
+    },
+    {
+        "id": 156,
+        "tendiaphuong": "Quận 7",
+        "bienso": "59-C2"
+    },
+    {
+        "id": 157,
+        "tendiaphuong": "Quận 7",
+        "bienso": "59-CB"
+    },
+    {
+        "id": 158,
+        "tendiaphuong": "Quận 8",
+        "bienso": "59-L1"
+    },
+    {
+        "id": 159,
+        "tendiaphuong": "Quận 8",
+        "bienso": "59-L2"
+    },
+    {
+        "id": 160,
+        "tendiaphuong": "Quận 8",
+        "bienso": "59-LA"
+    },
+    {
+        "id": 161,
+        "tendiaphuong": "Quận 9",
+        "bienso": "59-X1"
+    },
+    {
+        "id": 162,
+        "tendiaphuong": "Quận 9",
+        "bienso": "59-XA"
+    },
+    {
+        "id": 163,
+        "tendiaphuong": "Quận 10",
+        "bienso": "59-U1"
+    },
+    {
+        "id": 164,
+        "tendiaphuong": "Quận 10",
+        "bienso": "59-UA"
+    },
+    {
+        "id": 165,
+        "tendiaphuong": "Quận 11",
+        "bienso": "59-M1"
+    },
+    {
+        "id": 166,
+        "tendiaphuong": "Quận 11",
+        "bienso": "59-MA"
+    },
+    {
+        "id": 167,
+        "tendiaphuong": "Quận 12",
+        "bienso": "59-G1"
+    },
+    {
+        "id": 168,
+        "tendiaphuong": "Quận 12",
+        "bienso": "59-G2"
+    },
+    {
+        "id": 169,
+        "tendiaphuong": "Quận 12",
+        "bienso": "59-GA"
+    },
+    {
+        "id": 170,
+        "tendiaphuong": "Quận Tân Bình",
+        "bienso": "59-P1"
+    },
+    {
+        "id": 171,
+        "tendiaphuong": "Quận Tân Bình",
+        "bienso": "59-P2"
+    },
+    {
+        "id": 172,
+        "tendiaphuong": "Quận Tân Bình",
+        "bienso": "59-PA"
+    },
+    {
+        "id": 173,
+        "tendiaphuong": "Quận Tân Phú",
+        "bienso": "59-D1"
+    },
+    {
+        "id": 174,
+        "tendiaphuong": "Quận Tân Phú",
+        "bienso": "59-D2"
+    },
+    {
+        "id": 175,
+        "tendiaphuong": "Quận Tân Phú",
+        "bienso": "59-DA"
+    },
+    {
+        "id": 176,
+        "tendiaphuong": "Quận Bình Thạnh",
+        "bienso": "59-S1"
+    },
+    {
+        "id": 177,
+        "tendiaphuong": "Quận Bình Thạnh",
+        "bienso": "59-S2"
+    },
+    {
+        "id": 178,
+        "tendiaphuong": "Quận Bình Thạnh",
+        "bienso": "59-SA"
+    },
+    {
+        "id": 179,
+        "tendiaphuong": "Quận Gò Vấp",
+        "bienso": "59-V1"
+    },
+    {
+        "id": 180,
+        "tendiaphuong": "Quận Gò Vấp",
+        "bienso": "59-V2"
+    },
+    {
+        "id": 181,
+        "tendiaphuong": "Quận Gò Vấp",
+        "bienso": "59-VA"
+    },
+    {
+        "id": 182,
+        "tendiaphuong": "Quận Phú Nhuận",
+        "bienso": "59-E1"
+    },
+    {
+        "id": 183,
+        "tendiaphuong": "Quận Phú Nhuận",
+        "bienso": "59-EA"
+    },
+    {
+        "id": 184,
+        "tendiaphuong": "Quận Thủ Đức",
+        "bienso": "59-X2"
+    },
+    {
+        "id": 185,
+        "tendiaphuong": "Quận Thủ Đức",
+        "bienso": "59-XB"
+    },
+    {
+        "id": 186,
+        "tendiaphuong": "Quận Bình Tân",
+        "bienso": "59-N1"
+    },
+    {
+        "id": 187,
+        "tendiaphuong": "Quận Bình Tân",
+        "bienso": "50-N1"
+    },
+    {
+        "id": 188,
+        "tendiaphuong": "Quận Bình Tân",
+        "bienso": "59-NA"
+    },
+    {
+        "id": 189,
+        "tendiaphuong": "Huyện Bình Chánh",
+        "bienso": "59-N2"
+    },
+    {
+        "id": 190,
+        "tendiaphuong": "Huyện Bình Chánh",
+        "bienso": "59-NB"
+    },
+    {
+        "id": 191,
+        "tendiaphuong": "Huyện Nhà Bè",
+        "bienso": "59-Z1"
+    },
+    {
+        "id": 192,
+        "tendiaphuong": "Huyện Nhà Bè",
+        "bienso": "59-ZA"
+    },
+    {
+        "id": 193,
+        "tendiaphuong": "Huyện Cần Giờ",
+        "bienso": "59-Z2"
+    },
+    {
+        "id": 194,
+        "tendiaphuong": "Huyện Cần Giờ",
+        "bienso": "59-ZB"
+    },
+    {
+        "id": 195,
+        "tendiaphuong": "Huyện Hóc Môn",
+        "bienso": "59-Y1"
+    },
+    {
+        "id": 196,
+        "tendiaphuong": "Huyện Hóc Môn",
+        "bienso": "59-YA"
+    },
+    {
+        "id": 197,
+        "tendiaphuong": " Huyện Củ Chi",
+        "bienso": "59-Y2"
+    },
+    {
+        "id": 198,
+        "tendiaphuong": " Huyện Củ Chi",
+        "bienso": "59-YB"
+    },
+    {
+        "id": 199,
+        "tendiaphuong": "Xe môtô phân khối trên 175cc (Hồ Chí Minh)",
+        "bienso": "59-A3"
+    },
+    {
+        "id": 200,
+        "tendiaphuong": "Mã biển số quận Hoàn Kiếm",
+        "bienso": "29 – C1"
+    },
+    {
+        "id": 201,
+        "tendiaphuong": "Mã biển số quận Hai Bà Trưng",
+        "bienso": "29 – D1"
+    },
+    {
+        "id": 202,
+        "tendiaphuong": "Mã biển số quận Đống Đa",
+        "bienso": "29-E1-E2"
+    },
+    {
+        "id": 203,
+        "tendiaphuong": "Mã biển số quận Tây Hồ",
+        "bienso": "29-F1"
+    },
+    {
+        "id": 204,
+        "tendiaphuong": "Mã biển số quận Thanh Xuân",
+        "bienso": "29-G1"
+    },
+    {
+        "id": 205,
+        "tendiaphuong": "Mã biển số quận Hoàng Mai",
+        "bienso": "29-H1"
+    },
+    {
+        "id": 206,
+        "tendiaphuong": "Mã biển số quận Long Biên",
+        "bienso": "29-K1"
+    },
+    {
+        "id": 207,
+        "tendiaphuong": "Mã biển số quận Cầu Giấy",
+        "bienso": "29-P1"
+    },
+    {
+        "id": 208,
+        "tendiaphuong": "Mã biển số quận Hà Đông",
+        "bienso": "29-T1"
+    },
+    {
+        "id": 209,
+        "tendiaphuong": "Mã biển số quận Nam Từ Liêm",
+        "bienso": "29-L1"
+    },
+    {
+        "id": 210,
+        "tendiaphuong": "Mã biển số quận Bắc Từ Liêm",
+        "bienso": "29-L5"
+    },
+    {
+        "id": 211,
+        "tendiaphuong": "Mã biển số huyện Thanh Trì",
+        "bienso": "29-M1"
+    },
+    {
+        "id": 212,
+        "tendiaphuong": "Mã biển số huyện Gia Lâm",
+        "bienso": "29-N1"
+    },
+    {
+        "id": 213,
+        "tendiaphuong": "Mã biển số huyện Đông Anh",
+        "bienso": "29-S1"
+    },
+    {
+        "id": 214,
+        "tendiaphuong": "Mã biển số huyện Sóc Sơn",
+        "bienso": "29-S6"
+    },
+    {
+        "id": 215,
+        "tendiaphuong": "Mã biển số huyện Ba Vì",
+        "bienso": "29-V1"
+    },
+    {
+        "id": 216,
+        "tendiaphuong": "Mã biển số huyện Phúc Thọ",
+        "bienso": "29-V3"
+    },
+    {
+        "id": 217,
+        "tendiaphuong": " Mã biển số huyện Thạch Thất",
+        "bienso": "29-V5"
+    },
+    {
+        "id": 218,
+        "tendiaphuong": "Mã biển số huyện Quốc Oai",
+        "bienso": "29-V7"
+    },
+    {
+        "id": 219,
+        "tendiaphuong": "Mã biển số huyện Chương Mỹ",
+        "bienso": "29-X1"
+    },
+    {
+        "id": 220,
+        "tendiaphuong": "Mã biển số huyện Đan Phượng",
+        "bienso": "29-X3"
+    },
+    {
+        "id": 221,
+        "tendiaphuong": "Mã biển số huyện Hoài Đức",
+        "bienso": "29-X5"
+    },
+    {
+        "id": 222,
+        "tendiaphuong": "Mã biển số huyện Thanh Oai",
+        "bienso": "29-X7"
+    },
+    {
+        "id": 223,
+        "tendiaphuong": "Mã biển số huyện Mỹ Đức",
+        "bienso": "29-Y1"
+    },
+    {
+        "id": 224,
+        "tendiaphuong": "Mã biển số huyện Ứng Hòa",
+        "bienso": "29-Y3"
+    },
+    {
+        "id": 225,
+        "tendiaphuong": "Mã biển số huyện Thường Tín",
+        "bienso": "29-Y5"
+    },
+    {
+        "id": 226,
+        "tendiaphuong": "Mã biển số huyện Phú Xuyên",
+        "bienso": "29-Y7"
+    },
+    {
+        "id": 227,
+        "tendiaphuong": "Mã biển số huyện Mê Linh",
+        "bienso": "29-Z1"
+    },
+    {
+        "id": 228,
+        "tendiaphuong": "Mã biển số thị xã Sơn Tây",
+        "bienso": "29-U1"
+    },
+    {
+        "id": 229,
+        "tendiaphuong": "Mã biển số dành cho xe con dưới 9 chỗ ngồi (Hà Nội)",
+        "bienso": "29 A XXXX"
+    },
+    {
+        "id": 230,
+        "tendiaphuong": "Mã biển số dành cho xe con dưới 9 chỗ ngồi (Hà Nội)",
+        "bienso": "30 A XXXX"
+    },
+    {
+        "id": 231,
+        "tendiaphuong": "Mã biển số dành cho xe tải và xe bán tải van (Hà Nội)",
+        "bienso": "29 C XXXX"
+    },
+    {
+        "id": 232,
+        "tendiaphuong": "Mã biển số dành cho xe tải và xe bán tải van (Hà Nội)",
+        "bienso": "30 C XXXX"
+    },
+    {
+        "id": 233,
+        "tendiaphuong": "Mã biển số dành cho xe du lịch và xe khách (Hà Nội)",
+        "bienso": "29 B XXXX"
+    },
+    {
+        "id": 234,
+        "tendiaphuong": "Mã biển số dành cho xe du lịch và xe khách (Hà Nội)",
+        "bienso": "30 B XXXX"
+    },
+    {
+        "id": 235,
+        "tendiaphuong": "Quận Hải Châu",
+        "bienso": "43-C1"
+    },
+    {
+        "id": 236,
+        "tendiaphuong": "Quận Hải Châu",
+        "bienso": "43-B1"
+    },
+    {
+        "id": 237,
+        "tendiaphuong": "Quận Thanh Khê",
+        "bienso": "43-D1"
+    },
+    {
+        "id": 238,
+        "tendiaphuong": "Quận Sơn Trà",
+        "bienso": "43-E1"
+    },
+    {
+        "id": 239,
+        "tendiaphuong": "Quận Liên Chiểu",
+        "bienso": "43-F1"
+    },
+    {
+        "id": 240,
+        "tendiaphuong": "Quận Cẩm Lệ",
+        "bienso": "43-G1"
+    },
+    {
+        "id": 241,
+        "tendiaphuong": "Quận Ngũ Hành Sơn",
+        "bienso": "43-H1"
+    },
+    {
+        "id": 242,
+        "tendiaphuong": "Huyện Hòa Vang",
+        "bienso": "43-K1"
+    },
+    {
+        "id": 243,
+        "tendiaphuong": "Biển số xe ô tô (Đà Nẵng)",
+        "bienso": "43A"
+    },
+    {
+        "id": 244,
+        "tendiaphuong": "Biển số xe ô tô (Đà Nẵng)",
+        "bienso": "43D"
+    },
+    {
+        "id": 245,
+        "tendiaphuong": "Biển số xe ô tô (Đà Nẵng)",
+        "bienso": "43C"
+    },
+    {
+        "id": 246,
+        "tendiaphuong": "Biển số xe ô tô (Đà Nẵng)",
+        "bienso": "43B"
+    },
+    {
+        "id": 247,
+        "tendiaphuong": "Biển số xe ô tô (Đà Nẵng)",
+        "bienso": "43LD"
+    }
+]
